@@ -1,0 +1,2850 @@
+[
+    {
+        "name": "PORTA CELLULARE AUTO",
+        "url": "https://www.amazon.it/dp/B0C273FR2T/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "Miracase Porta Cellulare Auto, [Livello Militare Aspirazione Affidabile] Supproto Telefono Auto Universale, Per il Cruscotto & Bocchette di Aerazione E Parabrezza Adatto a Tutti Smartphone ",
+                "ratings": {
+                    "num": 5346
+                }
+            },
+            "buybox_seller": {
+                "name": "Miracase-EU",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 11.95,
+                    "condition": 5,
+                    "totalPrice": 11.95,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 4,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": 5.0,
+                    "num": 731,
+                    "perc_positive": 98
+                },
+                "fba": true
+            },
+            "other_sellers": [
+                {
+                    "name": "BODE",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 11.95,
+                        "condition": 5,
+                        "totalPrice": 11.95,
+                        "diffPriceNoShipping": 0.0,
+                        "diffTotalPrice": 0.0
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 4,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 2,
+                        "perc_positive": 100
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "EMRSPTA",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 17.38,
+                        "condition": 5,
+                        "totalPrice": 17.38,
+                        "diffPriceNoShipping": 5.43,
+                        "diffTotalPrice": 5.43
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 3,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 234,
+                        "perc_positive": 99
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "Amazon",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 17.98,
+                        "condition": 5,
+                        "totalPrice": 17.98,
+                        "diffPriceNoShipping": 6.030000000000001,
+                        "diffTotalPrice": 6.030000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 3,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": null,
+                        "num": null,
+                        "perc_positive": null
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "Gambistore",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 22.99,
+                        "condition": 5,
+                        "totalPrice": 22.99,
+                        "diffPriceNoShipping": 11.04,
+                        "diffTotalPrice": 11.04
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 1.0,
+                        "num": 3,
+                        "perc_positive": 0
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Amazon UK",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 24.01,
+                        "condition": 5,
+                        "totalPrice": 24.01,
+                        "diffPriceNoShipping": 12.060000000000002,
+                        "diffTotalPrice": 12.060000000000002
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": null,
+                        "num": null,
+                        "perc_positive": null
+                    },
+                    "fba": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "CUFFIE GAMING",
+        "url": "https://www.amazon.it/dp/B0C94KNS8D/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "Trust Gaming GXT 415 Zirox Cuffie Gaming Leggere con Driver da 50 mm per PC, Xbox, PS4, PS5, Switch, Mobile, Jack Audio 3.5 mm, Cavo 2m, Cuffie con Microfono Over-Ear - Nero ",
+                "ratings": {
+                    "num": 1575
+                }
+            },
+            "buybox_seller": {
+                "name": "Amazon",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 16.99,
+                    "condition": 5,
+                    "totalPrice": 16.99,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 4,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": null,
+                    "num": null,
+                    "perc_positive": null
+                },
+                "fba": true
+            },
+            "other_sellers": [
+                {
+                    "name": "iCOM",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 20.51,
+                        "condition": 5,
+                        "totalPrice": 20.51,
+                        "diffPriceNoShipping": 3.520000000000003,
+                        "diffTotalPrice": 3.520000000000003
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 16787,
+                        "perc_positive": 83
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Bartolucci S.r.l.",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 22.48,
+                        "condition": 5,
+                        "totalPrice": 22.48,
+                        "diffPriceNoShipping": 5.490000000000002,
+                        "diffTotalPrice": 5.490000000000002
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 11,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 4597,
+                        "perc_positive": 86
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Zanetti Shop",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 18.26,
+                        "condition": 5,
+                        "totalPrice": 24.470000000000002,
+                        "diffPriceNoShipping": 1.2700000000000031,
+                        "diffTotalPrice": 7.480000000000004
+                    },
+                    "shipping": {
+                        "price": 6.21,
+                        "days": 8,
+                        "diffPrice": 6.21
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 230,
+                        "perc_positive": 87
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Dagimarket",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 17.48,
+                        "condition": 5,
+                        "totalPrice": 24.8,
+                        "diffPriceNoShipping": 0.490000000000002,
+                        "diffTotalPrice": 7.810000000000002
+                    },
+                    "shipping": {
+                        "price": 7.32,
+                        "days": 18,
+                        "diffPrice": 7.32
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 2444,
+                        "perc_positive": 91
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "TECSTORE24",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 25.08,
+                        "condition": 5,
+                        "totalPrice": 25.08,
+                        "diffPriceNoShipping": 8.09,
+                        "diffTotalPrice": 8.09
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 140,
+                        "perc_positive": 82
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Gory's Web Shop",
+                    "index": 6,
+                    "sale": {
+                        "priceNoShipping": 25.28,
+                        "condition": 5,
+                        "totalPrice": 25.28,
+                        "diffPriceNoShipping": 8.290000000000003,
+                        "diffTotalPrice": 8.290000000000003
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 13,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.5,
+                        "num": 11341,
+                        "perc_positive": 65
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "GRANDIN GROUP",
+                    "index": 7,
+                    "sale": {
+                        "priceNoShipping": 25.52,
+                        "condition": 5,
+                        "totalPrice": 25.52,
+                        "diffPriceNoShipping": 8.530000000000001,
+                        "diffTotalPrice": 8.530000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 11,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 1302,
+                        "perc_positive": 76
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "TECHNOINF SRLS (www.technoinf.it)",
+                    "index": 8,
+                    "sale": {
+                        "priceNoShipping": 25.88,
+                        "condition": 5,
+                        "totalPrice": 25.88,
+                        "diffPriceNoShipping": 8.89,
+                        "diffTotalPrice": 8.89
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 7,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 451,
+                        "perc_positive": 82
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "MondoTop",
+                    "index": 9,
+                    "sale": {
+                        "priceNoShipping": 19.99,
+                        "condition": 5,
+                        "totalPrice": 25.979999999999997,
+                        "diffPriceNoShipping": 3.0,
+                        "diffTotalPrice": 8.989999999999998
+                    },
+                    "shipping": {
+                        "price": 5.99,
+                        "days": 5,
+                        "diffPrice": 5.99
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 6437,
+                        "perc_positive": 81
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "MULTISERVICES",
+                    "index": 10,
+                    "sale": {
+                        "priceNoShipping": 26.87,
+                        "condition": 5,
+                        "totalPrice": 26.87,
+                        "diffPriceNoShipping": 9.880000000000003,
+                        "diffTotalPrice": 9.880000000000003
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.0,
+                        "num": 6247,
+                        "perc_positive": 55
+                    },
+                    "fba": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "TELECAMERA",
+        "url": "https://www.amazon.it/dp/B07XLML2YS/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "Tapo C200 Telecamera Wi-Fi Interno FHD, Videocamera sorveglianza, Visione Notturna, 360° Visuale, Audio Bidirezionale, Rilevamento di movimento e notifiche, Allarme acustico e luminoso integrato ",
+                "ratings": {
+                    "num": 123431
+                }
+            },
+            "buybox_seller": {
+                "name": "Amazon",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 22.99,
+                    "condition": 5,
+                    "totalPrice": 22.99,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 4,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": null,
+                    "num": null,
+                    "perc_positive": null
+                },
+                "fba": true
+            },
+            "other_sellers": [
+                {
+                    "name": "Recycleandrepair",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 35.0,
+                        "condition": 5,
+                        "totalPrice": 35.0,
+                        "diffPriceNoShipping": 12.010000000000002,
+                        "diffTotalPrice": 12.010000000000002
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 13,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": true,
+                        "avg": null,
+                        "num": null,
+                        "perc_positive": null
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "GROOVE TO S.R.L.",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 39.0,
+                        "condition": 5,
+                        "totalPrice": 39.0,
+                        "diffPriceNoShipping": 16.01,
+                        "diffTotalPrice": 16.01
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 5218,
+                        "perc_positive": 91
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Vinzitech",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 41.27,
+                        "condition": 5,
+                        "totalPrice": 41.27,
+                        "diffPriceNoShipping": 18.280000000000005,
+                        "diffTotalPrice": 18.280000000000005
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 18,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 302,
+                        "perc_positive": 95
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "x-targets",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 39.14,
+                        "condition": 5,
+                        "totalPrice": 43.27,
+                        "diffPriceNoShipping": 16.150000000000002,
+                        "diffTotalPrice": 20.280000000000005
+                    },
+                    "shipping": {
+                        "price": 4.13,
+                        "days": 15,
+                        "diffPrice": 4.13
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 54,
+                        "perc_positive": 73
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "S7 Store",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 44.99,
+                        "condition": 5,
+                        "totalPrice": 44.99,
+                        "diffPriceNoShipping": 22.000000000000004,
+                        "diffTotalPrice": 22.000000000000004
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 13,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 117,
+                        "perc_positive": 83
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "ATRIACOM",
+                    "index": 6,
+                    "sale": {
+                        "priceNoShipping": 34.88,
+                        "condition": 5,
+                        "totalPrice": 45.870000000000005,
+                        "diffPriceNoShipping": 11.890000000000004,
+                        "diffTotalPrice": 22.880000000000006
+                    },
+                    "shipping": {
+                        "price": 10.99,
+                        "days": 14,
+                        "diffPrice": 10.99
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 1,
+                        "perc_positive": 100
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Drakestore",
+                    "index": 7,
+                    "sale": {
+                        "priceNoShipping": 45.99,
+                        "condition": 5,
+                        "totalPrice": 45.99,
+                        "diffPriceNoShipping": 23.000000000000004,
+                        "diffTotalPrice": 23.000000000000004
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 15,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 14,
+                        "perc_positive": 71
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "MemoryC",
+                    "index": 8,
+                    "sale": {
+                        "priceNoShipping": 47.74,
+                        "condition": 5,
+                        "totalPrice": 47.74,
+                        "diffPriceNoShipping": 24.750000000000004,
+                        "diffTotalPrice": 24.750000000000004
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 14,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 9549,
+                        "perc_positive": 76
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "ESPERTI DI MARCHI",
+                    "index": 9,
+                    "sale": {
+                        "priceNoShipping": 47.86,
+                        "condition": 5,
+                        "totalPrice": 47.86,
+                        "diffPriceNoShipping": 24.87,
+                        "diffTotalPrice": 24.87
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 13,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 560,
+                        "perc_positive": 70
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "ZOOM ICI",
+                    "index": 10,
+                    "sale": {
+                        "priceNoShipping": 51.24,
+                        "condition": 5,
+                        "totalPrice": 51.24,
+                        "diffPriceNoShipping": 28.250000000000004,
+                        "diffTotalPrice": 28.250000000000004
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 14,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.5,
+                        "num": 553,
+                        "perc_positive": 58
+                    },
+                    "fba": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "CAPSULE CAFFE'",
+        "url": "https://www.amazon.it/dp/B07JPJGCY2/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "200 CAPSULE POP CAFFE' E-MIO 2 CREMOSO COMPATIBILI LAVAZZA A MODO MIO ",
+                "ratings": {
+                    "num": 202
+                }
+            },
+            "buybox_seller": {
+                "name": "Amore Animale Shop",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 39.0,
+                    "condition": 5,
+                    "totalPrice": 39.0,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 6,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": 4.5,
+                    "num": 32258,
+                    "perc_positive": 88
+                },
+                "fba": false
+            },
+            "other_sellers": [
+                {
+                    "name": "VIRALTRADE   ⭐⭐⭐⭐⭐",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 38.7,
+                        "condition": 5,
+                        "totalPrice": 38.7,
+                        "diffPriceNoShipping": -0.29999999999999716,
+                        "diffTotalPrice": -0.29999999999999716
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 223,
+                        "perc_positive": 68
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "MagikStore  ✅",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 39.2,
+                        "condition": 5,
+                        "totalPrice": 39.2,
+                        "diffPriceNoShipping": 0.20000000000000284,
+                        "diffTotalPrice": 0.20000000000000284
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 5,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.0,
+                        "num": 175,
+                        "perc_positive": 54
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "cialde-point",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 39.9,
+                        "condition": 5,
+                        "totalPrice": 39.9,
+                        "diffPriceNoShipping": 0.8999999999999986,
+                        "diffTotalPrice": 0.8999999999999986
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 7,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 11922,
+                        "perc_positive": 95
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Tipiliano",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 41.8,
+                        "condition": 5,
+                        "totalPrice": 41.8,
+                        "diffPriceNoShipping": 2.799999999999997,
+                        "diffTotalPrice": 2.799999999999997
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 5,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 81189,
+                        "perc_positive": 94
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "CIALDEIN - CAVEBA 2.0",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 41.95,
+                        "condition": 5,
+                        "totalPrice": 41.95,
+                        "diffPriceNoShipping": 2.950000000000003,
+                        "diffTotalPrice": 2.950000000000003
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 7915,
+                        "perc_positive": 94
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "LUMASHOP2020",
+                    "index": 6,
+                    "sale": {
+                        "priceNoShipping": 43.0,
+                        "condition": 5,
+                        "totalPrice": 55.0,
+                        "diffPriceNoShipping": 4.0,
+                        "diffTotalPrice": 16.0
+                    },
+                    "shipping": {
+                        "price": 12.0,
+                        "days": 5,
+                        "diffPrice": 12.0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 145,
+                        "perc_positive": 75
+                    },
+                    "fba": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "INTEGRATORE ALIMENTARE",
+        "url": "https://www.amazon.it/dp/B07Q7WZ5R2/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "Supradyn Magnesio e Potassio Integratore Multivitaminico con Vitamine B, Vitamina C e Sali Minerali per Stanchezza, Caldo e Sport, 24 Bustine Effervescenti Senza Zucchero, Gusto Arancia ",
+                "ratings": {
+                    "num": 11101
+                }
+            },
+            "buybox_seller": {
+                "name": "Amazon",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 8.9,
+                    "condition": 5,
+                    "totalPrice": 8.9,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 3,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": null,
+                    "num": null,
+                    "perc_positive": null
+                },
+                "fba": true
+            },
+            "other_sellers": [
+                {
+                    "name": "FarmaciaBasso",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 11.99,
+                        "condition": 5,
+                        "totalPrice": 11.99,
+                        "diffPriceNoShipping": 3.09,
+                        "diffTotalPrice": 3.09
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 3,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 4350,
+                        "perc_positive": 100
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "Trealcubo",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 13.49,
+                        "condition": 5,
+                        "totalPrice": 13.49,
+                        "diffPriceNoShipping": 4.59,
+                        "diffTotalPrice": 4.59
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 3,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 2653,
+                        "perc_positive": 97
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "MAGISTRA S.R.L.",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 8.91,
+                        "condition": 5,
+                        "totalPrice": 13.9,
+                        "diffPriceNoShipping": 0.009999999999999787,
+                        "diffTotalPrice": 5.0
+                    },
+                    "shipping": {
+                        "price": 4.99,
+                        "days": 7,
+                        "diffPrice": 4.99
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 10,
+                        "perc_positive": 80
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "sefirashop",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 14.71,
+                        "condition": 5,
+                        "totalPrice": 14.71,
+                        "diffPriceNoShipping": 5.8100000000000005,
+                        "diffTotalPrice": 5.8100000000000005
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 3,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 7576,
+                        "perc_positive": 92
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "Farmacia724",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 10.3,
+                        "condition": 5,
+                        "totalPrice": 15.200000000000001,
+                        "diffPriceNoShipping": 1.4000000000000004,
+                        "diffTotalPrice": 6.300000000000001
+                    },
+                    "shipping": {
+                        "price": 4.9,
+                        "days": 8,
+                        "diffPrice": 4.9
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 2431,
+                        "perc_positive": 87
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Totalfarma",
+                    "index": 6,
+                    "sale": {
+                        "priceNoShipping": 15.39,
+                        "condition": 5,
+                        "totalPrice": 15.39,
+                        "diffPriceNoShipping": 6.49,
+                        "diffTotalPrice": 6.49
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 7,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 12,
+                        "perc_positive": 75
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Farmacia deTommasis",
+                    "index": 7,
+                    "sale": {
+                        "priceNoShipping": 13.93,
+                        "condition": 5,
+                        "totalPrice": 15.92,
+                        "diffPriceNoShipping": 5.029999999999999,
+                        "diffTotalPrice": 7.02
+                    },
+                    "shipping": {
+                        "price": 1.99,
+                        "days": 5,
+                        "diffPrice": 1.99
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 57,
+                        "perc_positive": 75
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Farmaenne",
+                    "index": 8,
+                    "sale": {
+                        "priceNoShipping": 9.73,
+                        "condition": 5,
+                        "totalPrice": 15.93,
+                        "diffPriceNoShipping": 0.8300000000000001,
+                        "diffTotalPrice": 7.029999999999999
+                    },
+                    "shipping": {
+                        "price": 6.2,
+                        "days": 6,
+                        "diffPrice": 6.2
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 551,
+                        "perc_positive": 80
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Clubfarma_farmacia",
+                    "index": 9,
+                    "sale": {
+                        "priceNoShipping": 11.21,
+                        "condition": 5,
+                        "totalPrice": 16.200000000000003,
+                        "diffPriceNoShipping": 2.3100000000000005,
+                        "diffTotalPrice": 7.3000000000000025
+                    },
+                    "shipping": {
+                        "price": 4.99,
+                        "days": 8,
+                        "diffPrice": 4.99
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 151,
+                        "perc_positive": 84
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Farmacia Del Monaco",
+                    "index": 10,
+                    "sale": {
+                        "priceNoShipping": 16.79,
+                        "condition": 5,
+                        "totalPrice": 16.79,
+                        "diffPriceNoShipping": 7.889999999999999,
+                        "diffTotalPrice": 7.889999999999999
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 7,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 44,
+                        "perc_positive": 98
+                    },
+                    "fba": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "SCHEDA MICRO SD",
+        "url": "https://www.amazon.it/dp/B07YGZQ4H8/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "Kingston Canvas Select Plus SDCS2/64GB Scheda microSD Classe 10 con Adattatore SD Incluso, 64 GB ",
+                "ratings": {
+                    "num": 176026
+                }
+            },
+            "buybox_seller": {
+                "name": "NLMAX",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 8.45,
+                    "condition": 5,
+                    "totalPrice": 8.45,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 8,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": 5.0,
+                    "num": 548,
+                    "perc_positive": 100
+                },
+                "fba": true
+            },
+            "other_sellers": [
+                {
+                    "name": "VENDITE FLASH 2024",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 7.1,
+                        "condition": 5,
+                        "totalPrice": 7.1,
+                        "diffPriceNoShipping": -1.3499999999999996,
+                        "diffTotalPrice": -1.3499999999999996
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 7,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 5331,
+                        "perc_positive": 94
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "TSMC memory",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 8.45,
+                        "condition": 5,
+                        "totalPrice": 8.45,
+                        "diffPriceNoShipping": 0.0,
+                        "diffTotalPrice": 0.0
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 4,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 596,
+                        "perc_positive": 100
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "GALACOM",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 8.45,
+                        "condition": 5,
+                        "totalPrice": 8.45,
+                        "diffPriceNoShipping": 0.0,
+                        "diffTotalPrice": 0.0
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 14,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 2.5,
+                        "num": 11,
+                        "perc_positive": 30
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Blasi Distribuzione S.R.L.S.",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 9.5,
+                        "condition": 5,
+                        "totalPrice": 9.5,
+                        "diffPriceNoShipping": 1.0500000000000007,
+                        "diffTotalPrice": 1.0500000000000007
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 521,
+                        "perc_positive": 86
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Skydigital",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 9.59,
+                        "condition": 5,
+                        "totalPrice": 9.59,
+                        "diffPriceNoShipping": 1.1400000000000006,
+                        "diffTotalPrice": 1.1400000000000006
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 4,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 4496,
+                        "perc_positive": 99
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "Rarewaves IT",
+                    "index": 6,
+                    "sale": {
+                        "priceNoShipping": 9.98,
+                        "condition": 5,
+                        "totalPrice": 9.98,
+                        "diffPriceNoShipping": 1.5300000000000011,
+                        "diffTotalPrice": 1.5300000000000011
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 35,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 4732,
+                        "perc_positive": 91
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Mádori Soluciones",
+                    "index": 7,
+                    "sale": {
+                        "priceNoShipping": 9.99,
+                        "condition": 5,
+                        "totalPrice": 9.99,
+                        "diffPriceNoShipping": 1.540000000000001,
+                        "diffTotalPrice": 1.540000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 4,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 353,
+                        "perc_positive": 100
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "Alemy Shop",
+                    "index": 8,
+                    "sale": {
+                        "priceNoShipping": 9.99,
+                        "condition": 5,
+                        "totalPrice": 9.99,
+                        "diffPriceNoShipping": 1.540000000000001,
+                        "diffTotalPrice": 1.540000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 905,
+                        "perc_positive": 78
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "AtomicShop",
+                    "index": 9,
+                    "sale": {
+                        "priceNoShipping": 9.99,
+                        "condition": 5,
+                        "totalPrice": 9.99,
+                        "diffPriceNoShipping": 1.540000000000001,
+                        "diffTotalPrice": 1.540000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 231,
+                        "perc_positive": 97
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Luemm srl",
+                    "index": 10,
+                    "sale": {
+                        "priceNoShipping": 10.89,
+                        "condition": 5,
+                        "totalPrice": 10.89,
+                        "diffPriceNoShipping": 2.4400000000000013,
+                        "diffTotalPrice": 2.4400000000000013
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 5,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 974,
+                        "perc_positive": 82
+                    },
+                    "fba": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "INSETTICIDA",
+        "url": "https://www.amazon.it/dp/B0196HLSD0/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "INSETTICIDA BAYER SOLFAC GEL LIQUIDO SCARAFAGGI 20G BLATTE VELENO INSETTI ",
+                "ratings": {
+                    "num": 2634
+                }
+            },
+            "buybox_seller": {
+                "name": "acquaverde",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 16.9,
+                    "condition": 5,
+                    "totalPrice": 16.9,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 3,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": 4.5,
+                    "num": 25617,
+                    "perc_positive": 86
+                },
+                "fba": true
+            },
+            "other_sellers": [
+                {
+                    "name": "Amore Animale Shop",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 18.8,
+                        "condition": 5,
+                        "totalPrice": 18.8,
+                        "diffPriceNoShipping": 1.9000000000000021,
+                        "diffTotalPrice": 1.9000000000000021
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 32258,
+                        "perc_positive": 88
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Natural Trade Srl",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 22.9,
+                        "condition": 5,
+                        "totalPrice": 22.9,
+                        "diffPriceNoShipping": 6.0,
+                        "diffTotalPrice": 6.0
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 5,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 143,
+                        "perc_positive": 94
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "CLEANTECH SRLS",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 29.7,
+                        "condition": 5,
+                        "totalPrice": 29.7,
+                        "diffPriceNoShipping": 12.8,
+                        "diffTotalPrice": 12.8
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 8,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 8,
+                        "perc_positive": 100
+                    },
+                    "fba": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "FORNO PIZZA",
+        "url": "https://www.amazon.it/dp/B0CGRXXPLZ/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "MACOM Just Kitchen 884 Professional Pizza Oven, Forno Pizza Professionale ",
+                "ratings": {
+                    "num": 130
+                }
+            },
+            "buybox_seller": {
+                "name": "Amazon",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 237.97,
+                    "condition": 5,
+                    "totalPrice": 237.97,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 3,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": null,
+                    "num": null,
+                    "perc_positive": null
+                },
+                "fba": true
+            },
+            "other_sellers": [
+                {
+                    "name": "iCOM",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 232.8,
+                        "condition": 5,
+                        "totalPrice": 232.8,
+                        "diffPriceNoShipping": -5.1699999999999875,
+                        "diffTotalPrice": -5.1699999999999875
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 16787,
+                        "perc_positive": 83
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Yeppon Italia",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 232.85,
+                        "condition": 5,
+                        "totalPrice": 232.85,
+                        "diffPriceNoShipping": -5.1200000000000045,
+                        "diffTotalPrice": -5.1200000000000045
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.5,
+                        "num": 38213,
+                        "perc_positive": 64
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Gory's Web Shop",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 233.0,
+                        "condition": 5,
+                        "totalPrice": 233.0,
+                        "diffPriceNoShipping": -4.969999999999999,
+                        "diffTotalPrice": -4.969999999999999
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 13,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.5,
+                        "num": 11341,
+                        "perc_positive": 65
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Epto",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 236.89,
+                        "condition": 5,
+                        "totalPrice": 236.89,
+                        "diffPriceNoShipping": -1.0800000000000125,
+                        "diffTotalPrice": -1.0800000000000125
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 774,
+                        "perc_positive": 77
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Forhouseshop",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 239.9,
+                        "condition": 5,
+                        "totalPrice": 239.9,
+                        "diffPriceNoShipping": 1.9300000000000068,
+                        "diffTotalPrice": 1.9300000000000068
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 8,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 2363,
+                        "perc_positive": 87
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Mecamedia",
+                    "index": 6,
+                    "sale": {
+                        "priceNoShipping": 235.24,
+                        "condition": 5,
+                        "totalPrice": 241.24,
+                        "diffPriceNoShipping": -2.7299999999999898,
+                        "diffTotalPrice": 3.2700000000000102
+                    },
+                    "shipping": {
+                        "price": 6.0,
+                        "days": 11,
+                        "diffPrice": 6.0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 1241,
+                        "perc_positive": 77
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "ULTRASHOP.IT-Preventivi x consegna al piano",
+                    "index": 7,
+                    "sale": {
+                        "priceNoShipping": 247.6,
+                        "condition": 5,
+                        "totalPrice": 247.6,
+                        "diffPriceNoShipping": 9.629999999999995,
+                        "diffTotalPrice": 9.629999999999995
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 15,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 525,
+                        "perc_positive": 73
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Casagift",
+                    "index": 8,
+                    "sale": {
+                        "priceNoShipping": 249.99,
+                        "condition": 5,
+                        "totalPrice": 249.99,
+                        "diffPriceNoShipping": 12.02000000000001,
+                        "diffTotalPrice": 12.02000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 175,
+                        "perc_positive": 75
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "LIKE-IT",
+                    "index": 9,
+                    "sale": {
+                        "priceNoShipping": 251.72,
+                        "condition": 5,
+                        "totalPrice": 251.72,
+                        "diffPriceNoShipping": 13.75,
+                        "diffTotalPrice": 13.75
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 2682,
+                        "perc_positive": 91
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "B280",
+                    "index": 10,
+                    "sale": {
+                        "priceNoShipping": 259.0,
+                        "condition": 5,
+                        "totalPrice": 259.0,
+                        "diffPriceNoShipping": 21.03,
+                        "diffTotalPrice": 21.03
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 3,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 412,
+                        "perc_positive": 91
+                    },
+                    "fba": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "DISPOSITIVO ANTIABBANDONO",
+        "url": "https://www.amazon.it/dp/B078W8BBFK/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "TIPPY PAD dispositivo anti abbandono, multicolore ",
+                "ratings": {
+                    "num": 10940
+                }
+            },
+            "buybox_seller": {
+                "name": "Se.Com. Group",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 24.9,
+                    "condition": 5,
+                    "totalPrice": 24.9,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 6,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": 4.5,
+                    "num": 151,
+                    "perc_positive": 87
+                },
+                "fba": false
+            },
+            "other_sellers": [
+                {
+                    "name": "WinWinEasyShop",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 27.99,
+                        "condition": 5,
+                        "totalPrice": 27.99,
+                        "diffPriceNoShipping": 3.09,
+                        "diffTotalPrice": 3.09
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 3,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 100,
+                        "perc_positive": 100
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "FS Toys S.r.l.",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 22.99,
+                        "condition": 5,
+                        "totalPrice": 29.07,
+                        "diffPriceNoShipping": -1.9100000000000001,
+                        "diffTotalPrice": 4.170000000000002
+                    },
+                    "shipping": {
+                        "price": 6.08,
+                        "days": 12,
+                        "diffPrice": 6.08
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.0,
+                        "num": 64,
+                        "perc_positive": 43
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Tutto per il tuo bambino",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 31.99,
+                        "condition": 5,
+                        "totalPrice": 31.99,
+                        "diffPriceNoShipping": 7.09,
+                        "diffTotalPrice": 7.09
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 14,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.5,
+                        "num": 988,
+                        "perc_positive": 56
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Quibimbo",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 31.99,
+                        "condition": 5,
+                        "totalPrice": 31.99,
+                        "diffPriceNoShipping": 7.09,
+                        "diffTotalPrice": 7.09
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 15,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.5,
+                        "num": 184,
+                        "perc_positive": 59
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "M3 Elettronica",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 32.0,
+                        "condition": 5,
+                        "totalPrice": 32.0,
+                        "diffPriceNoShipping": 7.100000000000001,
+                        "diffTotalPrice": 7.100000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 5,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 112,
+                        "perc_positive": 93
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "PEPPEMICK",
+                    "index": 6,
+                    "sale": {
+                        "priceNoShipping": 29.99,
+                        "condition": 5,
+                        "totalPrice": 32.98,
+                        "diffPriceNoShipping": 5.09,
+                        "diffTotalPrice": 8.079999999999998
+                    },
+                    "shipping": {
+                        "price": 2.99,
+                        "days": 13,
+                        "diffPrice": 2.99
+                    },
+                    "ratings": {
+                        "isNew": true,
+                        "avg": null,
+                        "num": null,
+                        "perc_positive": null
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Amazon",
+                    "index": 7,
+                    "sale": {
+                        "priceNoShipping": 36.79,
+                        "condition": 5,
+                        "totalPrice": 36.79,
+                        "diffPriceNoShipping": 11.89,
+                        "diffTotalPrice": 11.89
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 4,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": null,
+                        "num": null,
+                        "perc_positive": null
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "Paniate",
+                    "index": 8,
+                    "sale": {
+                        "priceNoShipping": 39.0,
+                        "condition": 5,
+                        "totalPrice": 46.5,
+                        "diffPriceNoShipping": 14.100000000000001,
+                        "diffTotalPrice": 21.6
+                    },
+                    "shipping": {
+                        "price": 7.5,
+                        "days": 11,
+                        "diffPrice": 7.5
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 1133,
+                        "perc_positive": 92
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "FRASINI EUROFFICE SRL",
+                    "index": 9,
+                    "sale": {
+                        "priceNoShipping": 39.99,
+                        "condition": 5,
+                        "totalPrice": 47.650000000000006,
+                        "diffPriceNoShipping": 15.090000000000003,
+                        "diffTotalPrice": 22.750000000000007
+                    },
+                    "shipping": {
+                        "price": 7.66,
+                        "days": 1,
+                        "diffPrice": 7.66
+                    },
+                    "ratings": {
+                        "isNew": true,
+                        "avg": null,
+                        "num": null,
+                        "perc_positive": null
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Phonmatic",
+                    "index": 10,
+                    "sale": {
+                        "priceNoShipping": 47.19,
+                        "condition": 5,
+                        "totalPrice": 52.75,
+                        "diffPriceNoShipping": 22.29,
+                        "diffTotalPrice": 27.85
+                    },
+                    "shipping": {
+                        "price": 5.56,
+                        "days": 13,
+                        "diffPrice": 5.56
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 36,
+                        "perc_positive": 78
+                    },
+                    "fba": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "LAMPADINE",
+        "url": "https://www.amazon.it/dp/B000UXA6AQ/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "Osram ORIGINAL H7, lampadina alogena per fari, 64210, 12V, scatola pieghevole (1 lampadina) ",
+                "ratings": {
+                    "num": 22359
+                }
+            },
+            "buybox_seller": {
+                "name": "Amazon",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 5.0,
+                    "condition": 5,
+                    "totalPrice": 5.0,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 5,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": null,
+                    "num": null,
+                    "perc_positive": null
+                },
+                "fba": true
+            },
+            "other_sellers": [
+                {
+                    "name": "DVR RICAMBI",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 3.88,
+                        "condition": 5,
+                        "totalPrice": 3.88,
+                        "diffPriceNoShipping": -1.12,
+                        "diffTotalPrice": -1.12
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 5,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 1253,
+                        "perc_positive": 85
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "CORDIANO GROUP SRL",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 5.99,
+                        "condition": 5,
+                        "totalPrice": 5.99,
+                        "diffPriceNoShipping": 0.9900000000000002,
+                        "diffTotalPrice": 0.9900000000000002
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 8,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 4410,
+                        "perc_positive": 83
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Fantasyautosrls",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 5.99,
+                        "condition": 5,
+                        "totalPrice": 5.99,
+                        "diffPriceNoShipping": 0.9900000000000002,
+                        "diffTotalPrice": 0.9900000000000002
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 269,
+                        "perc_positive": 70
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Metler IT",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 7.77,
+                        "condition": 5,
+                        "totalPrice": 7.77,
+                        "diffPriceNoShipping": 2.7699999999999996,
+                        "diffTotalPrice": 2.7699999999999996
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 4,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 1159,
+                        "perc_positive": 100
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "BATTERY CLUB EUROPE",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 7.87,
+                        "condition": 5,
+                        "totalPrice": 7.87,
+                        "diffPriceNoShipping": 2.87,
+                        "diffTotalPrice": 2.87
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 1.0,
+                        "num": 4,
+                        "perc_positive": 0
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "COPAL AUTORICAMBI",
+                    "index": 6,
+                    "sale": {
+                        "priceNoShipping": 7.97,
+                        "condition": 5,
+                        "totalPrice": 7.97,
+                        "diffPriceNoShipping": 2.9699999999999998,
+                        "diffTotalPrice": 2.9699999999999998
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 8,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 1305,
+                        "perc_positive": 84
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "lautomobilesrl",
+                    "index": 7,
+                    "sale": {
+                        "priceNoShipping": 8.85,
+                        "condition": 5,
+                        "totalPrice": 8.85,
+                        "diffPriceNoShipping": 3.8499999999999996,
+                        "diffTotalPrice": 3.8499999999999996
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 4305,
+                        "perc_positive": 91
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "RICAMBI SMART USAUTOCARS",
+                    "index": 8,
+                    "sale": {
+                        "priceNoShipping": 5.0,
+                        "condition": 5,
+                        "totalPrice": 9.5,
+                        "diffPriceNoShipping": 0.0,
+                        "diffTotalPrice": 4.5
+                    },
+                    "shipping": {
+                        "price": 4.5,
+                        "days": 11,
+                        "diffPrice": 4.5
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 8,
+                        "perc_positive": 100
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Scontolo",
+                    "index": 9,
+                    "sale": {
+                        "priceNoShipping": 2.75,
+                        "condition": 5,
+                        "totalPrice": 9.74,
+                        "diffPriceNoShipping": -2.25,
+                        "diffTotalPrice": 4.74
+                    },
+                    "shipping": {
+                        "price": 6.99,
+                        "days": 15,
+                        "diffPrice": 6.99
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.5,
+                        "num": 3375,
+                        "perc_positive": 68
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Auto Hotarek",
+                    "index": 10,
+                    "sale": {
+                        "priceNoShipping": 10.11,
+                        "condition": 5,
+                        "totalPrice": 10.11,
+                        "diffPriceNoShipping": 5.109999999999999,
+                        "diffTotalPrice": 5.109999999999999
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 8,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 242,
+                        "perc_positive": 89
+                    },
+                    "fba": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "GUANTI",
+        "url": "https://www.amazon.it/dp/B00FFY9KE8/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "REFLEXX R78 / M Guanti senza nitrili in polvere, medio, nero, confezione da 100 ",
+                "ratings": {
+                    "num": 2366
+                }
+            },
+            "buybox_seller": {
+                "name": "Amazon",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 4.8,
+                    "condition": 5,
+                    "totalPrice": 4.8,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 3,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": null,
+                    "num": null,
+                    "perc_positive": null
+                },
+                "fba": true
+            },
+            "other_sellers": [
+                {
+                    "name": "LOLLOSHOP",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 7.0,
+                        "condition": 5,
+                        "totalPrice": 7.0,
+                        "diffPriceNoShipping": 2.2,
+                        "diffTotalPrice": 2.2
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 1018,
+                        "perc_positive": 85
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Mondo Pulito Online",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 7.2,
+                        "condition": 5,
+                        "totalPrice": 7.2,
+                        "diffPriceNoShipping": 2.4000000000000004,
+                        "diffTotalPrice": 2.4000000000000004
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 224,
+                        "perc_positive": 83
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "E-Momo",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 7.49,
+                        "condition": 5,
+                        "totalPrice": 7.49,
+                        "diffPriceNoShipping": 2.6900000000000004,
+                        "diffTotalPrice": 2.6900000000000004
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 70,
+                        "perc_positive": 91
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Tipiliano",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 8.22,
+                        "condition": 5,
+                        "totalPrice": 8.22,
+                        "diffPriceNoShipping": 3.420000000000001,
+                        "diffTotalPrice": 3.420000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 5,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 81189,
+                        "perc_positive": 94
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Puscio Food Packaging",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 8.35,
+                        "condition": 5,
+                        "totalPrice": 8.35,
+                        "diffPriceNoShipping": 3.55,
+                        "diffTotalPrice": 3.55
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 8,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 16,
+                        "perc_positive": 100
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "AesseShop",
+                    "index": 6,
+                    "sale": {
+                        "priceNoShipping": 8.99,
+                        "condition": 5,
+                        "totalPrice": 8.99,
+                        "diffPriceNoShipping": 4.19,
+                        "diffTotalPrice": 4.19
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 8,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 163,
+                        "perc_positive": 91
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "GEVENIT",
+                    "index": 7,
+                    "sale": {
+                        "priceNoShipping": 9.99,
+                        "condition": 5,
+                        "totalPrice": 9.99,
+                        "diffPriceNoShipping": 5.19,
+                        "diffTotalPrice": 5.19
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 11,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 2750,
+                        "perc_positive": 83
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "subitodisponibile",
+                    "index": 8,
+                    "sale": {
+                        "priceNoShipping": 10.74,
+                        "condition": 5,
+                        "totalPrice": 10.74,
+                        "diffPriceNoShipping": 5.94,
+                        "diffTotalPrice": 5.94
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 13515,
+                        "perc_positive": 100
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "BS EXCLUSIVE",
+                    "index": 9,
+                    "sale": {
+                        "priceNoShipping": 4.79,
+                        "condition": 5,
+                        "totalPrice": 10.780000000000001,
+                        "diffPriceNoShipping": -0.009999999999999787,
+                        "diffTotalPrice": 5.980000000000001
+                    },
+                    "shipping": {
+                        "price": 5.99,
+                        "days": 6,
+                        "diffPrice": 5.99
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 206,
+                        "perc_positive": 89
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Dore Distribuzioni",
+                    "index": 10,
+                    "sale": {
+                        "priceNoShipping": 10.94,
+                        "condition": 5,
+                        "totalPrice": 10.94,
+                        "diffPriceNoShipping": 6.14,
+                        "diffTotalPrice": 6.14
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.5,
+                        "num": 10,
+                        "perc_positive": 60
+                    },
+                    "fba": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "CUBO DI RUBIK",
+        "url": "https://www.amazon.it/dp/B00HDZHREW/ref=olp-opf-redir?aod=1&ie=UTF8&condition=NEW",
+        "datetime_extraction": "2024-09-12 11:00:02",
+        "data": {
+            "product": {
+                "name": "RUBIK'S, SPIN MASTER, Il Cubo di Rubik's Classico 3X3, l'Originale, per bambini dagli 8+, Rompicapo Professionale a combinazione di colori, problem-solving ",
+                "ratings": {
+                    "num": 3375
+                }
+            },
+            "buybox_seller": {
+                "name": "Amazon",
+                "index": 0,
+                "sale": {
+                    "priceNoShipping": 9.79,
+                    "condition": 5,
+                    "totalPrice": 9.79,
+                    "diffPriceNoShipping": 0,
+                    "diffTotalPrice": 0
+                },
+                "shipping": {
+                    "price": 0,
+                    "days": 3,
+                    "diffPrice": 0
+                },
+                "ratings": {
+                    "isNew": false,
+                    "avg": null,
+                    "num": null,
+                    "perc_positive": null
+                },
+                "fba": true
+            },
+            "other_sellers": [
+                {
+                    "name": "Marus Shop",
+                    "index": 1,
+                    "sale": {
+                        "priceNoShipping": 9.9,
+                        "condition": 5,
+                        "totalPrice": 9.9,
+                        "diffPriceNoShipping": 0.11000000000000121,
+                        "diffTotalPrice": 0.11000000000000121
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 4,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 2711,
+                        "perc_positive": 100
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "Emporio Bertinato Giuseppe",
+                    "index": 2,
+                    "sale": {
+                        "priceNoShipping": 5.2,
+                        "condition": 5,
+                        "totalPrice": 11.65,
+                        "diffPriceNoShipping": -4.589999999999999,
+                        "diffTotalPrice": 1.8600000000000012
+                    },
+                    "shipping": {
+                        "price": 6.45,
+                        "days": 7,
+                        "diffPrice": 6.45
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 29,
+                        "perc_positive": 90
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "MaCla",
+                    "index": 3,
+                    "sale": {
+                        "priceNoShipping": 11.97,
+                        "condition": 5,
+                        "totalPrice": 11.97,
+                        "diffPriceNoShipping": 2.1800000000000015,
+                        "diffTotalPrice": 2.1800000000000015
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 4,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 5.0,
+                        "num": 151,
+                        "perc_positive": 100
+                    },
+                    "fba": true
+                },
+                {
+                    "name": "StockGames",
+                    "index": 4,
+                    "sale": {
+                        "priceNoShipping": 12.64,
+                        "condition": 5,
+                        "totalPrice": 12.64,
+                        "diffPriceNoShipping": 2.8500000000000014,
+                        "diffTotalPrice": 2.8500000000000014
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 6,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 3.5,
+                        "num": 902,
+                        "perc_positive": 56
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "toystore giocattoli",
+                    "index": 5,
+                    "sale": {
+                        "priceNoShipping": 12.64,
+                        "condition": 5,
+                        "totalPrice": 12.64,
+                        "diffPriceNoShipping": 2.8500000000000014,
+                        "diffTotalPrice": 2.8500000000000014
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 8,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 1079,
+                        "perc_positive": 77
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "GIODICARTONLINE",
+                    "index": 6,
+                    "sale": {
+                        "priceNoShipping": 12.66,
+                        "condition": 5,
+                        "totalPrice": 12.66,
+                        "diffPriceNoShipping": 2.870000000000001,
+                        "diffTotalPrice": 2.870000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 11,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 12174,
+                        "perc_positive": 77
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "La Ma.Gi.Ca. snc",
+                    "index": 7,
+                    "sale": {
+                        "priceNoShipping": 13.0,
+                        "condition": 5,
+                        "totalPrice": 13.0,
+                        "diffPriceNoShipping": 3.210000000000001,
+                        "diffTotalPrice": 3.210000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 4,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 361,
+                        "perc_positive": 93
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "TIBIDU",
+                    "index": 8,
+                    "sale": {
+                        "priceNoShipping": 13.19,
+                        "condition": 5,
+                        "totalPrice": 13.19,
+                        "diffPriceNoShipping": 3.4000000000000004,
+                        "diffTotalPrice": 3.4000000000000004
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 12,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 209,
+                        "perc_positive": 74
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "La Galleria Srl",
+                    "index": 9,
+                    "sale": {
+                        "priceNoShipping": 13.9,
+                        "condition": 5,
+                        "totalPrice": 13.9,
+                        "diffPriceNoShipping": 4.110000000000001,
+                        "diffTotalPrice": 4.110000000000001
+                    },
+                    "shipping": {
+                        "price": 0,
+                        "days": 5,
+                        "diffPrice": 0
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.0,
+                        "num": 660,
+                        "perc_positive": 76
+                    },
+                    "fba": false
+                },
+                {
+                    "name": "Centro Bimbo",
+                    "index": 10,
+                    "sale": {
+                        "priceNoShipping": 9.0,
+                        "condition": 5,
+                        "totalPrice": 13.99,
+                        "diffPriceNoShipping": -0.7899999999999991,
+                        "diffTotalPrice": 4.200000000000001
+                    },
+                    "shipping": {
+                        "price": 4.99,
+                        "days": 7,
+                        "diffPrice": 4.99
+                    },
+                    "ratings": {
+                        "isNew": false,
+                        "avg": 4.5,
+                        "num": 832,
+                        "perc_positive": 93
+                    },
+                    "fba": false
+                }
+            ]
+        }
+    }
+]

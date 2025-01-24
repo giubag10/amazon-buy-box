@@ -1,0 +1,6 @@
+# START CRON JOB
+PATH_PRODOTTI_CSV=/data/scraping/input/prodotti.csv
+PATH_RESULTS=/data/scraping/results
+PATH_LOGS_FILE=/data/scraping/logs/amazon_data_extraction.log
+0 * * * *  /usr/local/bin/python /app/data_extraction/scripts/amazon_data_extraction.py > /proc/1/fd/1 2>/proc/1/fd/2
+# END CRON JOB

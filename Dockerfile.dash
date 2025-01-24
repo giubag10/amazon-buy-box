@@ -1,0 +1,14 @@
+FROM python:3.12
+# RUN apt-get update && apt-get -y install cron vim
+WORKDIR /app
+
+# Setup Python Environment
+COPY requirements.dash.txt requirements.txt
+RUN pip install --upgrade pip
+RUN pip install --no-cache-dir --upgrade -r requirements.txt
+
+COPY data_analysis/scripts data_analysis/scripts
+
+EXPOSE 8082
+
+CMD ["python", "data_analysis/scripts/amazon_layout_dashboard.py"]

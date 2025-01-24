@@ -1,0 +1,67 @@
+version: '20.10.24'
+
+services:
+
+  mongodb:
+    image: mongo:latest
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=amazon
+    volumes:
+      - mongo-data:/data/db
+
+  mongo-express:
+    image: mongo-express:latest
+    restart: always
+    ports:
+      - "8081:8081"
+    environment:
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=root
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=amazon
+      - ME_CONFIG_MONGODB_SERVER=mongodb
+    depends_on:
+      - mongodb
+
+  scraper:
+    build:
+      context: .
+      dockerfile: Dockerfile.scraper
+    depends_on:
+      - mongodb
+    restart: always
+    environment:
+      PATH_PRODOTTI_CSV: '/data/scraping/input/prodotti.csv'
+      PATH_RESULTS: '/data/scraping/results'
+      PATH_LOGS_FILE: '/data/scraping/logs/amazon_data_extraction.log'
+    volumes:
+      - type: bind
+        source: ./data/scraping
+        target: /data/scraping
+      - type: bind
+        source: ./data_extraction/resources/prodotti.csv
+        target: /data/scraping/input/prodotti.csv
+
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.dash
+    depends_on:
+      - mongodb
+    restart: always
+    environment:
+      PATH_LOGS_FILE: '/data/analysis/logs/amazon_data_analysis.log'
+    volumes:
+      - type: bind
+        source: ./data/analysis
+        target: /data/analysis
+    ports:
+      - "8082:8082"
+
+# Define named volumes
+volumes:
+  mongo-data:
+    driver: local
+

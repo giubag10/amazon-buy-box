@@ -1,0 +1,28 @@
+FROM python:3.12
+RUN apt-get update && apt-get -y install cron vim
+WORKDIR /app
+
+# Setup Python Environment
+COPY requirements.scraper.txt requirements.txt
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+
+# Setup Firefox WebBrowser for scraping
+RUN wget https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-linux64.tar.gz
+RUN tar -C /usr/local/bin/ -xvf geckodriver-v0.35.0-linux64.tar.gz
+RUN install -d -m 0755 /etc/apt/keyrings
+RUN wget -q https://packages.mozilla.org/apt/repo-signing-key.gpg -O- | tee /etc/apt/keyrings/packages.mozilla.org.asc > /dev/null
+RUN gpg -n -q --import --import-options import-show /etc/apt/keyrings/packages.mozilla.org.asc | awk '/pub/{getline; gsub(/^ +| +$/,""); if($0 == "35BAA0B33E9EB396F59CA838C0BA5CE6DC6315A3") printf "\nImpronta digitale della chiave verificata (%s).\n", $0; else printf "\nVerifica fallita: impronta digitale (%s) non corrispondente a quella prevista.\n", $0}'
+RUN echo "deb [signed-by=/etc/apt/keyrings/packages.mozilla.org.asc] https://packages.mozilla.org/apt mozilla main" | tee -a /etc/apt/sources.list.d/mozilla.list > /dev/null
+RUN echo '\nPackage: *\nPin: origin packages.mozilla.org\nPin-Priority: 1000\n' | tee /etc/apt/preferences.d/mozilla
+RUN apt-get update && apt-get -y install firefox
+
+COPY crontab /etc/cron.d/crontab
+COPY data_extraction/scripts data_extraction/scripts
+COPY data_extraction/resources data_extraction/resources
+RUN chmod 0644 /etc/cron.d/crontab
+RUN /usr/bin/crontab /etc/cron.d/crontab
+RUN echo $PYTHONPATH
+
+# run crond as main process of container
+CMD ["cron", "-f"]
