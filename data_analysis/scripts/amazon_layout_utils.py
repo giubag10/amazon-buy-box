@@ -1,7 +1,6 @@
 import datetime
 import statistics
 
-import pandas as pd
 import plotly.express as px
 from dash import dash_table  # pip install dash
 
@@ -54,8 +53,8 @@ def create_feature_importance_histogram(df, x_col="feature", y_col="importance",
     return px.histogram(df, x=x_col, y=y_col, color=color_col, barmode="group")
 
 
-def generate_all_ml_graphics(dropdown_features, filtered_normalized_data, test_size):
-    ml_analysis_output = exec_all_ml_analysis(filtered_normalized_data, test_size, dropdown_features)
+def generate_all_ml_graphics(dropdown_features, filtered_normalized_data, radio_cv_option, test_size, set_progress):
+    ml_analysis_output = exec_all_ml_analysis(filtered_normalized_data, radio_cv_option, test_size, dropdown_features, set_progress)
     ml_analysis_output_df = ml_analysis_output_to_df(ml_analysis_output)
     accuracy_avg = statistics.mean(ml_analysis_output_df['accuracy'])
     accuracy_label = round(accuracy_avg * 100, 2)
@@ -67,13 +66,13 @@ def generate_all_ml_graphics(dropdown_features, filtered_normalized_data, test_s
     return accuracy_label, graph_plot_all_alg, importance_features_stats
 
 
-def generate_ml_graphics(algorithm, dropdown_features, filtered_normalized_data, test_size):
-    perm_importance, accuracy = exec_ml_analysis(algorithm, filtered_normalized_data, test_size, dropdown_features)
+def generate_ml_graphics(algorithm, dropdown_features, filtered_normalized_data, radio_cv_option, test_size):
+    perm_importance, accuracy = exec_ml_analysis(algorithm, filtered_normalized_data, radio_cv_option, test_size, dropdown_features)
     accuracy_label = round(accuracy * 100, 2)
     ml_analysis_output = [{"alg_name": algorithm, "perm_importance": perm_importance, "accuracy": accuracy}]
     ml_analysis_output_df = ml_analysis_output_to_df(ml_analysis_output)
     graph_matplotlib_alg = generate_bar_plot(ml_analysis_output_df)
-    result = pd.DataFrame({'feature': perm_importance.index, 'importance': perm_importance.values})
+    result = ml_analysis_output_df[['feature', 'importance']].copy()
     result['importance'] = round(result['importance'] * 100, 2)
     importance_features_stats = generate_data_table(result)
     return accuracy_label, graph_matplotlib_alg, importance_features_stats

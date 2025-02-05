@@ -17,7 +17,7 @@ from data_analysis.scripts.amazon_data_normalizer import normalize_amazon_data
 from data_analysis.scripts.amazon_data_reader import import_input_json_files_from_dir
 
 
-# Da lanciare con workspace la cartella tests mentre bisogna cambiare localmente gli import in data_analysis.scripts.*
+# Da lanciare con workspace la cartella scripts
 class Test(TestCase):
 
     @parameterized.expand([

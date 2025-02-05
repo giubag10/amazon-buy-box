@@ -17,7 +17,7 @@ from data_analysis.scripts.amazon_ML_constants import S_inputs, \
     feature_columns_opt
 
 
-# Da lanciare con workspace la cartella tests mentre bisogna cambiare localmente gli import in data_analysis.scripts.*
+# Da lanciare con workspace la cartella scripts
 class Test(TestCase):
 
     @parameterized.expand([

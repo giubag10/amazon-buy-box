@@ -1,5 +1,6 @@
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, HistGradientBoostingClassifier
 from sklearn.linear_model import LogisticRegression, SGDClassifier, Perceptron
+from sklearn.model_selection import StratifiedKFold, RepeatedKFold, KFold
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neural_network import MLPClassifier
 from sklearn.svm import SVC
@@ -8,14 +9,14 @@ from sklearn.tree import DecisionTreeClassifier, ExtraTreeClassifier
 # Features
 features = ["price_no_shipping", "total_price", "price_diff_prod", "price_diff",
             "shipping_price", "delivery_days", "price_diff_ship", "ratings_num",
-            "ratings_avg", "ratings_perc_positive", "fba", "amazon"]
+            "ratings_avg", "ratings_perc_positive", "fba", "amazon", "new"]
 
 # Target
 target_features = ["buybox"]
 
 # Opzione completa
 feature_columns_opt = ["price_diff_prod", "price_diff", "price_diff_ship", "delivery_days", "ratings_num",
-                       "ratings_avg", "ratings_perc_positive", "fba", "amazon"]
+                       "ratings_avg", "ratings_perc_positive", "fba", "amazon", "new"]
 
 # Utile ai test: path verso input di dimesioni diverse
 S_inputs = "../inputs/small"  # 7 gg di campioni
@@ -120,7 +121,7 @@ best_params_knn = [
     {'algorithm': 'brute', 'n_neighbors': 7, 'p': 2, 'weights': 'distance'}  # Best for XL
 ]
 
-# Migliori iperparametri degli algoritmi (scelti sulla base dell'esito dei test in test_amazon_ml_analysis_best_score.py
+# Migliori iperparametri degli algoritmi (scelti sulla base dell'esito dei test in test_amazon_ml_analysis_best_score.py)
 best_param_cart = best_params_cart[1]
 best_param_random_forest = best_params_random_forest[2]
 best_param_svc = best_params_svc[1]
@@ -170,3 +171,10 @@ amazon_bb = [True, False]
 amazon_nbb = [True, False]
 new_bb = [True, False]
 new_nbb = [True, False]
+
+# Cross-validation options
+hold_out_option = None
+k_fold_option = KFold(n_splits=10)
+stratified_k_fold_option = StratifiedKFold(n_splits=10, shuffle=True)
+repeated_k_fold_option = RepeatedKFold(n_splits=10, n_repeats=3)
+cross_validation_options = [hold_out_option, k_fold_option, stratified_k_fold_option, repeated_k_fold_option]

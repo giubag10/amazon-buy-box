@@ -29,6 +29,8 @@ def serve_layout():
         html.Div(
             [
                 html.Button(id='submit-button-state', n_clicks=0, children='Execute Machine Learning Analysis'),
+                html.Br(),
+                html.Progress(id="progress_bar")
             ],
             style={'text-align': 'center'}  # Allinea il contenuto al centro
         ),
@@ -124,12 +126,28 @@ def build_input_section(max_date, min_date):
                 id='nbb-seller-count'
             ),
             html.Br(),
-            html.Label("Test size for Machine Learning algorithm: "),
-            dcc.Slider(
-                0.0, 0.4, 0.1,
-                value=0.2,
-                id='test-size'
-            )
+            html.Label("Cross Validation Option: ",
+                       title="Select the cross validation option to apply on Machine Learning analysis"),
+            dcc.RadioItems(
+                id='radio-cv-option',
+                options=[
+                    {'label': ' Hold-out (select test size)', 'value': 0},
+                    {'label': ' k-Fold (10 splits)', 'value': 1},
+                    {'label': ' Stratified k-Fold (10 splits)', 'value': 2},
+                    {'label': ' Repeated k-Fold (10 splits, 3 repeats)', 'value': 3}
+                ],
+                value=3
+            ),
+            html.Br(),
+            html.Div(id="test-size-div",
+                     children=[
+                         html.Label("Test size for Machine Learning algorithm: "),
+                         dcc.Slider(
+                             0.0, 0.4, 0.1,
+                             value=0.2,
+                             id='test-size'
+                         )
+                     ], style={'display': 'none'}),
         ], style={'padding': 10, 'flex': 1})
 
     ], style={'display': 'flex', 'flexDirection': 'row'})
@@ -144,7 +162,8 @@ def build_output_section():
             html.Br(),
             html.Div([
                 html.Div([
-                    html.H3("Normalized Features Dataset Describe Table", className='mb-2', style={'text-align': 'center'}),
+                    html.H3("Normalized Features Dataset Describe Table", className='mb-2',
+                            style={'text-align': 'center'}),
                     html.Div(id='normalized-features-stats')
                 ], style={'padding': 10, 'flex': 1}),
                 html.Div([
@@ -185,4 +204,3 @@ def build_output_section():
             dcc.Graph(id='graph-ml-analysis')
         ],
         style={'display': 'none'})
-

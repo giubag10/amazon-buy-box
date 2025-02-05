@@ -3,6 +3,7 @@ import logging
 import dash_bootstrap_components as dbc  # pip install dash-bootstrap-components
 import matplotlib  # pip install matplotlib
 from dash import Dash, Input, Output, State, no_update  # pip install dash
+from dash.long_callback import DiskcacheLongCallbackManager  # pip install diskcache
 
 from amazon_data_filters import apply_filters
 from amazon_data_normalizer import normalize_amazon_data, calculate_statistics_on_df
@@ -12,12 +13,28 @@ from amazon_layout_utils import generate_all_ml_graphics, generate_ml_graphics, 
     generate_pie_chart
 from amazon_ML_constants import all_algorithms
 
+# Diskcache
+import diskcache
+cache = diskcache.Cache("./cache")
+long_callback_manager = DiskcacheLongCallbackManager(cache)
+
 matplotlib.use('agg')
-app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], long_callback_manager=long_callback_manager)
 app.layout = serve_layout
 
 
 @app.callback(
+    Output('test-size-div', 'style'),
+    Input('radio-cv-option', 'value')
+)
+def update_test_size_slider(radio_cv_option):
+    if radio_cv_option == 0:
+        return {'display': 'block'}
+    else:
+        return {'display': 'none'}
+
+
+@app.long_callback(
     Output('output-state', 'children'),
     Output('output-div', 'style'),
     Output('normalized-features-stats', 'children'),
@@ -37,10 +54,19 @@ app.layout = serve_layout
     State('radio-amazon-nbb', 'value'),
     State('radio-new-bb', 'value'),
     State('radio-new-nbb', 'value'),
-    State('dropdown_features', 'value')
+    State('dropdown_features', 'value'),
+    State('radio-cv-option', 'value'),
+    running=[(
+            Output("progress_bar", "style"),
+            {"visibility": "visible"},
+            {"visibility": "hidden"}
+    )],
+    progress=[Output("progress_bar", "value"),
+              Output("progress_bar", "max")
+              ]
 )
-def update_output(n_clicks, algorithm, start_date, end_date, seller_count, nbb_seller_count, test_size, radio_amazon_bb,
-                  radio_amazon_nbb, radio_new_bb, radio_new_nbb, dropdown_features):
+def update_output(set_progress, n_clicks, algorithm, start_date, end_date, seller_count, nbb_seller_count, test_size,
+                  radio_amazon_bb, radio_amazon_nbb, radio_new_bb, radio_new_nbb, dropdown_features, radio_cv_option):
     # Utile per debug: non viene esposto (si passa in output no_update)
     output_state = f'''
         The Button has been pressed {n_clicks} times,
@@ -54,6 +80,7 @@ def update_output(n_clicks, algorithm, start_date, end_date, seller_count, nbb_s
         New Seller BuyBox winner included: "{radio_new_bb}"\n
         New Seller NBB included: "{radio_new_nbb}"\n
         Features: "{dropdown_features}"\n
+        Cross Validation Option: "{radio_cv_option}"\n
     '''
     logging.info(output_state)
     if n_clicks == 0:
@@ -78,12 +105,14 @@ def update_output(n_clicks, algorithm, start_date, end_date, seller_count, nbb_s
         accuracy_label, graph_ml_analysis, importance_features_stats = (
             generate_all_ml_graphics(dropdown_features,
                                      filtered_normalized_data,
-                                     test_size))
+                                     radio_cv_option,
+                                     test_size, set_progress))
     else:
         accuracy_label, graph_ml_analysis, importance_features_stats = (
             generate_ml_graphics(algorithm,
                                  dropdown_features,
                                  filtered_normalized_data,
+                                 radio_cv_option,
                                  test_size))
 
     return (

@@ -95,6 +95,7 @@ def normalize_amazon_data(df):
     df["buybox"] = le.fit_transform(df["buybox"])
     df["fba"] = le.fit_transform(df["fba"])
     df["amazon"] = le.fit_transform(df["amazon"])
+    df["new"] = le.fit_transform(df["new"])
 
     log_statistics(df)
 
