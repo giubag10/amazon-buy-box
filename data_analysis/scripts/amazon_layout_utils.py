@@ -1,6 +1,7 @@
 import datetime
 import statistics
 
+import numpy as np
 import plotly.express as px
 from dash import dash_table  # pip install dash
 
@@ -79,7 +80,7 @@ def generate_ml_graphics(algorithm, dropdown_features, filtered_normalized_data,
 
 
 def generate_feature_stats(features_input, filtered_data_input):
-    feature_stats_data = filtered_data_input[features_input].describe().transpose()
+    feature_stats_data = filtered_data_input[features_input].fillna(0).describe(include=[np.number]).transpose()
     feature_stats_data = round(feature_stats_data, 2)
     feature_stats_data = feature_stats_data.reset_index().rename(columns={"index": "feature"})
     feature_stats = generate_data_table(feature_stats_data)

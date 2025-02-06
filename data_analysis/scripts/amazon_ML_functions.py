@@ -8,6 +8,7 @@ from logger import logging
 
 
 def train_and_predict(df, clf, name, test_size, feature_columns, target_columns, cv=None):
+    logging.info("Algorithm Name: " + str(name))
     if cv is not None:
         print("Cross Validation to apply: ", str(cv))
         return train_and_predict_with_cross_validation(df, clf, name, feature_columns, target_columns, cv)
@@ -69,9 +70,12 @@ def train_and_predict_with_cross_validation(df, clf, name, feature_columns, targ
         feature_importances = pd.concat([feature_importances, importance], ignore_index=True)
         fold_index += 1
 
-    logging.info("Average Accuracy Score Across Folds: " + str(np.mean(accuracy_scores)))
-    logging.info("Min Accuracy Score Across Folds: " + str(np.min(accuracy_scores)))
-    logging.info("Max Accuracy Score Across Folds: " + str(np.max(accuracy_scores)))
+    logging.info("Average Accuracy Score Across Folds: " + str(np.mean(accuracy_scores))
+                 + " - " + str(round(np.mean(accuracy_scores) * 100, 2)))
+    logging.info("Min Accuracy Score Across Folds: " + str(np.min(accuracy_scores))
+                 + " - " + str(round(np.min(accuracy_scores) * 100, 2)))
+    logging.info("Max Accuracy Score Across Folds: " + str(np.max(accuracy_scores))
+                 + " - " + str(round(np.max(accuracy_scores) * 100, 2)))
 
     logging.info('Features Importance Avg List:')
     # Average feature importance across folds
@@ -81,4 +85,35 @@ def train_and_predict_with_cross_validation(df, clf, name, feature_columns, targ
     logging.info(feature_importances_avg)
 
     return feature_importances_avg, np.mean(accuracy_scores)
+
+
+def train_and_predict_with_repeated_stratified_k_fold(df, clf, name, feature_columns, target_columns, n_splits=10, n_repeats=3):
+    encoded_features = df[feature_columns]
+    encoded_target = df[target_columns]
+
+    # Use StratifiedKFold for stratified cross-validation
+    cv = StratifiedKFold(n_splits=n_splits, shuffle=True)
+    all_importances = []
+
+    for _ in range(n_repeats):
+        for train_index, test_index in cv.split(encoded_features, encoded_target):
+            x_train, x_test = encoded_features.iloc[train_index], encoded_features.iloc[test_index]
+            y_train, y_test = encoded_target.iloc[train_index], encoded_target.iloc[test_index]
+
+            clf.fit(x_train, y_train)
+
+            # Calcola la permutation importance
+            result = permutation_importance(clf, x_test, y_test, n_repeats=10, random_state=42)
+            importances = pd.Series(result.importances_mean, index=encoded_features.columns)
+            all_importances.append(importances)
+
+    # Calcola l'importanza media delle features su tutte le ripetizioni e i fold
+    avg_importances = pd.concat(all_importances).groupby(level=0).mean()
+    avg_importances = avg_importances.sort_values(ascending=False)
+
+    # Calcola l'accuratezza media con cross-validation
+    scores = cross_val_score(clf, encoded_features, encoded_target, cv=cv)
+    accuracy = scores.mean()
+
+    return avg_importances, accuracy
 
